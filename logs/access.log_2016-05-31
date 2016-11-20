@@ -1,0 +1,15 @@
+﻿[2016-05-31 09:39:47.335] [INFO] dateFileLog - {'timestap':'1464658787335','platform':'web_getway','error':'数据格式出错！'}
+[2016-05-31 09:39:48.718] [INFO] dateFileLog - {'timestap':'1464658788718','error':'出现错误'}
+[2016-05-31 17:22:44.800] [INFO] dateFileLog - {'timestap':'1464686564800','error':'出现错误'}
+[2016-05-31 17:22:46.003] [INFO] dateFileLog - {'timestap':'1464686566003','error':'出现错误'}
+[2016-05-31 17:22:46.798] [INFO] dateFileLog - {'timestap':'1464686566798','platform':'web_getway','error':'缓存处理异常'}
+[2016-05-31 17:22:47.344] [INFO] dateFileLog - {'timestap':'1464686567344','error':'出现错误'}
+[2016-05-31 17:22:48.519] [INFO] dateFileLog - {'timestap':'1464686568519','error':'出现错误'}
+[2016-05-31 17:22:48.923] [INFO] dateFileLog - {'timestap':'1464686568923','error':'出现错误'}
+[2016-05-31 17:22:50.907] [INFO] dateFileLog - {'timestap':'1464686570907','error':'出现错误'}
+[2016-05-31 17:22:52.807] [INFO] dateFileLog - {'timestap':'1464686572807','error':'出现错误'}
+[2016-05-31 17:22:52.808] [INFO] dateFileLog - {'timestap':'1464686572808','error':'出现错误'}
+[2016-05-31 17:23:51.662] [INFO] dateFileLog - {'timestap':'1464686631662','platform':'web_getway','error':'缓存处理异常'}
+[2016-05-31 17:23:52.908] [INFO] dateFileLog - {'timestap':'1464686632908','error':'出现错误'}
+[2016-05-31 17:40:59.546] [INFO] dateFileLog - {'timestap':'1464687659546','platform':'web_getway','error':'缓存处理异常'}
+[2016-05-31 17:41:00.906] [INFO] dateFileLog - {'timestap':'1464687660906','error':'出现错误'}

@@ -1,0 +1,4 @@
+[2016-05-27 16:05:39.965] [INFO] dateFileLog - 开始
+[2016-05-27 16:17:46.639] [INFO] dateFileLog - {'timestap':'1464337066639','platform':'web_getway','error':'数据格式出错！'}
+[2016-05-27 16:55:57.868] [INFO] dateFileLog - {'timestap':'1464339357868','platform':'web_getway','error':'数据格式出错！'}
+[2016-05-27 16:56:19.112] [INFO] dateFileLog - {'timestap':'1464339379112','platform':'web_getway','error':'数据格式出错！'}

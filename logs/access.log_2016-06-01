@@ -1,0 +1,12 @@
+[2016-06-01 15:00:43.854] [INFO] dateFileLog - {'timestap':'1464764443854','platform':'web_getway','error':'缓存处理异常'}
+[2016-06-01 15:01:39.476] [INFO] dateFileLog - {'timestap':'1464764499476','platform':'web_getway','error':'缓存处理异常'}
+[2016-06-01 15:08:39.179] [INFO] dateFileLog - {'timestap':'1464764919179','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:11:09.529] [INFO] dateFileLog - {'timestap':'1464765069528','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:12:25.992] [INFO] dateFileLog - {'timestap':'1464765145992','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:13:55.463] [INFO] dateFileLog - {'timestap':'1464765235463','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:15:30.028] [INFO] dateFileLog - {'timestap':'1464765330028','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:16:05.900] [INFO] dateFileLog - {'timestap':'1464765365900','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 15:17:50.822] [INFO] dateFileLog - {'timestap':'1464765470822','platform':'web_getway','error':'服务器返回非json格式'}
+[2016-06-01 17:28:04.411] [INFO] dateFileLog - {'timestap':'1464773284411','platform':'yd_getway','error':'缓存处理异常'}
+[2016-06-01 17:30:57.392] [INFO] dateFileLog - {'timestap':'1464773457392','platform':'yd_getway','error':'服务器返回非json格式'}
+[2016-06-01 17:31:40.600] [INFO] dateFileLog - {'timestap':'1464773500600','platform':'yd_getway','error':'服务器返回非json格式'}
